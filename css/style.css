@@ -724,6 +724,10 @@
 	}
 
 	@media (max-width: 767px) {
+		
+		.logo {
+			margin: auto;
+		}
 
 		p {
 			font-size: 1.2em;
