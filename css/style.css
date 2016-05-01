@@ -725,6 +725,11 @@
 
 	@media (max-width: 767px) {
 		
+		
+		.team_text {
+	text-align: center;
+}
+		
 		.logo {
 			margin: auto;
 		}
